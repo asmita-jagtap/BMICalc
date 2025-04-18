@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('doodle.jpg') no-repeat center center fixed;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  
+  .container {
+    background-color: #c0c0c0;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 300px;
+  }
+  
+  input, button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #050a05;
+    color: white;
+    border: none;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
+  #tips {
+    color: #555;
+    margin-top: 10px;
+  }
+  
