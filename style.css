@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: url('doodle.jpg') no-repeat center center fixed;
+    background: url('bg.png') no-repeat center center fixed;
     background-size:cover;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
   
   
   .container {
-    background-color: #c0c0c0;
+    background-color: #8ae791c2;
     padding: 30px;
     border-radius: 30px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -28,7 +28,7 @@ body {
   }
   
   button {
-    background-color: #050a05;
+    background-color: #2d472d;
     color: white;
     border: none;
   }
